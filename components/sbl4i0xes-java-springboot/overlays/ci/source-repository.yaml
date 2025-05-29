@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sbl4i0xes-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sbl4i0xes-java-springboot
